@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iss-tracker/static/css/main.ce492662.css",
-    "main.js": "/iss-tracker/static/js/main.71e7e8f4.js",
+    "main.css": "/iss-tracker/static/css/main.61cd80c4.css",
+    "main.js": "/iss-tracker/static/js/main.f0a3f293.js",
     "static/js/787.6bf96e5b.chunk.js": "/iss-tracker/static/js/787.6bf96e5b.chunk.js",
     "index.html": "/iss-tracker/index.html",
-    "main.ce492662.css.map": "/iss-tracker/static/css/main.ce492662.css.map",
-    "main.71e7e8f4.js.map": "/iss-tracker/static/js/main.71e7e8f4.js.map",
+    "main.61cd80c4.css.map": "/iss-tracker/static/css/main.61cd80c4.css.map",
+    "main.f0a3f293.js.map": "/iss-tracker/static/js/main.f0a3f293.js.map",
     "787.6bf96e5b.chunk.js.map": "/iss-tracker/static/js/787.6bf96e5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce492662.css",
-    "static/js/main.71e7e8f4.js"
+    "static/css/main.61cd80c4.css",
+    "static/js/main.f0a3f293.js"
   ]
 }
